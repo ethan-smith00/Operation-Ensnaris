@@ -4,7 +4,7 @@ Operation Ensnaris is a personal cybersecurity project where I’m building a de
 
 The goal is to create a closed testing loop — simulate attacker behaviour, see what gets detected, then improve the defensive setup. I’m using this project to better understand how real-world detection systems behave, where alert fatigue comes from, and how deception technologies can be used more effectively.
 
----
+
 
 ## 🟣 Project Purpose (Purple Team)
 
@@ -12,7 +12,7 @@ Security teams deal with huge volumes of alerts, and it’s not always clear whi
 
 This project is essentially a small purple-team lab where attacker simulation and defensive monitoring feed into each other.
 
----
+
 
 ## 🔴 Adversary Simulation (Red Team)
 
@@ -27,7 +27,7 @@ Examples of behaviours I plan to simulate:
 
 The aim isn’t to “break in”, but to produce realistic signals that defensive systems should detect.
 
----
+
 
 ## 🔵 Detection & Monitoring (Blue Team)
 
@@ -40,7 +40,7 @@ The defensive side focuses on honeypots, logging, and alert analysis to understa
 
 This is where the effectiveness of the system is actually measured.
 
----
+
 
 ## 🟣 Roadmap (Purple Team Coordination)
 
@@ -71,12 +71,12 @@ Planned development phases for Operation Ensnaris:
 - Introduce AI-assisted analysis  
 - Expand deception techniques  
 
----
+
 
 ## ⚠️ Ethical Use
 
 This project is intended for authorised lab environments only and is not designed for use against systems without permission.
 
----
+
 
 *Developed as an ongoing cybersecurity learning and portfolio project.*
