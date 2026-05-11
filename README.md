@@ -46,22 +46,22 @@ This is where the effectiveness of the system is actually measured.
 
 Planned development phases for Operation Ensnaris:
 
-### Phase 1 — Foundation
+### Phase 1 - Foundation
 - Deploy initial honeypot environment  
 - Establish logging and monitoring pipeline  
 - Validate data collection  
 
-### Phase 2 — Adversary Simulation
+### Phase 2 - Adversary Simulation
 - Implement controlled scanning and probing scenarios  
 - Simulate attacker reconnaissance behaviours  
 - Map simulated activity to MITRE ATT&CK techniques  
 
-### Phase 3 — Detection Evaluation
+### Phase 3 - Detection Evaluation
 - Analyse alert accuracy and usefulness  
 - Identify detection gaps and false positives  
 - Measure alert volume and noise  
 
-### Phase 4 — Feedback & Improvement
+### Phase 4 - Feedback & Improvement
 - Refine honeypot configurations  
 - Improve detection coverage  
 - Enhance reporting and analysis capabilities  
