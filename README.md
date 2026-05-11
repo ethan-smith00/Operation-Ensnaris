@@ -2,7 +2,7 @@
 
 Operation Ensnaris is a personal cybersecurity project where I’m building a deception environment using honeypots alongside a controlled adversary simulator.
 
-The goal is to create a closed testing loop — simulate attacker behaviour, see what gets detected, then improve the defensive setup. I’m using this project to better understand how real-world detection systems behave, where alert fatigue comes from, and how deception technologies can be used more effectively.
+The goal is to create a closed testing loop simulate attacker behaviour, see what gets detected, then improve the defensive setup. I’m using this project to better understand how real-world detection systems behave, where alert fatigue comes from, and how deception technologies can be used more effectively.
 
 
 
